@@ -2,7 +2,7 @@
 
 //Approach1
 
-https: function reverseArr(arr, M) {
+function reverseArr(arr, M) {
   const newArr = [];
   const arr2 = [];
   for (let i = 0; i < arr.length; i++) {
